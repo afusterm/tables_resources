@@ -1,0 +1,40 @@
+{
+  "Plates": [
+    {
+      "number": 1,
+      "name": "Tortellini carbonara",
+      "description": "Tortellini carbonara",
+      "price": 8.0,
+      "picture": "",
+      "allergens": [
+        {
+          "name": "gluten",
+          "icon": ""
+        },
+        {
+          "name": "milk",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Chorizos a la sidra",
+      "description": "Chorizos a la sidra",
+      "price": 4.5,
+      "allergens": []
+    },
+    {
+      "number": 2,
+      "name": "Tosta de salmón",
+      "description": "Tosta de salmón",
+      "price": 3.0,
+      "allergens": [
+        {
+          "name": "fish",
+          "icon": ""
+        }
+      ]
+    }
+  ]
+}
