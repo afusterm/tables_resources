@@ -28,7 +28,29 @@
       "allergens": [
         {
           "name": "fish",
-          "icon": "https://github.com/afusterm/tables_resources/raw/master//fish.png"
+          "icon": "https://github.com/afusterm/tables_resources/raw/master/fish.png"
+        }
+      ]
+    },
+    {
+      "name": "Gambas al ajillo",
+      "price": 4.25,
+      "picture": "https://github.com/afusterm/tables_resources/raw/master/gambas_ajillo.jpeg",
+      "allergens": [
+        {
+          "name": "crustaceans",
+          "icon": "https://github.com/afusterm/tables_resources/raw/master/crustaceans.png"
+        }
+      ]
+    },
+    {
+      "name": "Huevos rotos con jamón",
+      "price": 5,
+      "picture": "https://github.com/afusterm/tables_resources/raw/master/huevos-rotos.jpeg",
+      "allergens": [
+        {
+          "name": "egg",
+          "icon": "https://github.com/afusterm/tables_resources/raw/master/egg.png"
         }
       ]
     }
