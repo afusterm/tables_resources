@@ -3,7 +3,7 @@
     {
       "name": "Tortellini carbonara",
       "price": 8.0,
-      "picture": "https://github.com/afusterm/tables_resources/blob/master/tortellini-carbonara.jpeg",
+      "picture": "https://github.com/afusterm/tables_resources/raw/master/tortellini-carbonara.jpeg",
       "allergens": [
         {
           "name": "gluten",
