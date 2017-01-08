@@ -1,38 +1,33 @@
 {
   "Plates": [
     {
-      "number": 1,
       "name": "Tortellini carbonara",
-      "description": "Tortellini carbonara",
       "price": 8.0,
-      "picture": "",
+      "picture": "https://github.com/afusterm/tables_resources/blob/master/tortellini-carbonara.jpeg",
       "allergens": [
         {
           "name": "gluten",
-          "icon": ""
+          "icon": "https://github.com/afusterm/tables_resources/blob/master/gluten.png"
         },
         {
           "name": "milk",
-          "icon": ""
+          "icon": "https://github.com/afusterm/tables_resources/blob/master/milk.png"
         }
       ]
     },
     {
-      "number": 2,
       "name": "Chorizos a la sidra",
-      "description": "Chorizos a la sidra",
       "price": 4.5,
+      "picture": "none",
       "allergens": []
     },
     {
-      "number": 2,
       "name": "Tosta de salmón",
-      "description": "Tosta de salmón",
       "price": 3.0,
       "allergens": [
         {
           "name": "fish",
-          "icon": ""
+          "icon": "https://github.com/afusterm/tables_resources/blob/master/fish.png"
         }
       ]
     }
