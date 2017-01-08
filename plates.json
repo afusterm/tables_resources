@@ -7,28 +7,28 @@
       "allergens": [
         {
           "name": "gluten",
-          "icon": "https://github.com/afusterm/tables_resources/blob/master/gluten.png"
+          "icon": "https://github.com/afusterm/tables_resources/raw/master/gluten.png"
         },
         {
           "name": "milk",
-          "icon": "https://github.com/afusterm/tables_resources/blob/master/milk.png"
+          "icon": "https://github.com/afusterm/tables_resources/raw/master/milk.png"
         }
       ]
     },
     {
       "name": "Chorizos a la sidra",
       "price": 4.5,
-      "picture": "none",
+      "picture": "https://github.com/afusterm/tables_resources/raw/master/chorizos-sidra.jpeg",
       "allergens": []
     },
     {
       "name": "Tosta de salmón",
       "price": 3.0,
-      "picture": "",
+      "picture": "https://github.com/afusterm/tables_resources/raw/master/tosta-salmon.jpeg",
       "allergens": [
         {
           "name": "fish",
-          "icon": "https://github.com/afusterm/tables_resources/blob/master/fish.png"
+          "icon": "https://github.com/afusterm/tables_resources/raw/master//fish.png"
         }
       ]
     }
