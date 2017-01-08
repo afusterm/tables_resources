@@ -24,6 +24,7 @@
     {
       "name": "Tosta de salmón",
       "price": 3.0,
+      "picture": "",
       "allergens": [
         {
           "name": "fish",
